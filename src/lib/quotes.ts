@@ -1,4 +1,4 @@
-export var kazuma: string[] = {};
+export let kazuma: string[] = [];
 
 kazuma.push("I hate this damned language!");
 kazuma.push("You didn't let me defend you ten days ago. I know your intentions are good, however... I want to at least finish off what you started with my own hands.");
