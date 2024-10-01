@@ -64,3 +64,4 @@ kazuma.push("You did it, partner!");
 kazuma.push("By the way... Did you ever find that koban?");
 kazuma.push("You sure have a lot of hatred heaped on you, don't you?");
 kazuma.push("Just don't forget you owe me a extra large beef hotpot from Yuumei Cafeteria.");
+kazuma.push("......... How sad. It means you don't have faith in me. You think I won't be able to get you off.")
